@@ -1,0 +1,16 @@
+{
+  "name": "performance-testing-cypress",
+  "version": "1.0.0",
+  "description": "Supporting materials for my session on Automation Guild 2021 where I will share how to extend Cypress to test for web performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.0",
+    "cypress-audit": "^0.3.0"
+  }
+}
