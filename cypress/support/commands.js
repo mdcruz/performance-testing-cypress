@@ -1,0 +1,1 @@
+import 'cypress-audit/commands';
